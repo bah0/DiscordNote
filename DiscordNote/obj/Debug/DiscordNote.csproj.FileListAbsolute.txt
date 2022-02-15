@@ -1,0 +1,10 @@
+C:\Users\baho\source\repos\DiscordNote\DiscordNote\bin\Debug\DiscordNote.exe.config
+C:\Users\baho\source\repos\DiscordNote\DiscordNote\bin\Debug\DiscordNote.exe
+C:\Users\baho\source\repos\DiscordNote\DiscordNote\bin\Debug\DiscordNote.pdb
+C:\Users\baho\source\repos\DiscordNote\DiscordNote\obj\Debug\DiscordNote.csprojAssemblyReference.cache
+C:\Users\baho\source\repos\DiscordNote\DiscordNote\obj\Debug\DiscordNote.Properties.Resources.resources
+C:\Users\baho\source\repos\DiscordNote\DiscordNote\obj\Debug\DiscordNote.csproj.GenerateResource.cache
+C:\Users\baho\source\repos\DiscordNote\DiscordNote\obj\Debug\DiscordNote.exe
+C:\Users\baho\source\repos\DiscordNote\DiscordNote\obj\Debug\DiscordNote.pdb
+C:\Users\baho\source\repos\DiscordNote\DiscordNote\obj\Debug\DiscordNote.DiscordNoteForm.resources
+C:\Users\baho\source\repos\DiscordNote\DiscordNote\obj\Debug\DiscordNote.ChannelEditor.resources
